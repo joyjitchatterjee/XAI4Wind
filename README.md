@@ -1,5 +1,5 @@
 # XAI4Wind
-<img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="190" height="190">
+<img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="210" height="190">
 
 # License
 
