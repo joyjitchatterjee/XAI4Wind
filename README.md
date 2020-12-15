@@ -1,9 +1,12 @@
 # XAI4Wind
 <img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="220" height="200">
-
+Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines" (in submission).
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
+Knowledge Graph for Explainable Decision Support in Operations & Maintenance of Wind Turbines. 
 
+References: Skillwind Manual (https://skillwind.com/wp-content/uploads/2017/08/SKILWIND_Maintenance_1.0.pdf) 
+Platform for Operational Data (https://pod.ore.catapult.org.uk). 
 
 # License
 
