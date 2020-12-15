@@ -8,8 +8,8 @@ We acknowledge the publicly available Skillwind maintenance manual and ORE Catap
 Knowledge Graph for Explainable Decision Support in Operations & Maintenance of Wind Turbines. 
 
 ## References
-Skillwind Manual (https://skillwind.com/wp-content/uploads/2017/08/SKILWIND_Maintenance_1.0.pdf) 
-Platform for Operational Data (https://pod.ore.catapult.org.uk). 
+1. Skillwind Manual (https://skillwind.com/wp-content/uploads/2017/08/SKILWIND_Maintenance_1.0.pdf) 
+2. Platform for Operational Data (https://pod.ore.catapult.org.uk). 
 
 # License
 
