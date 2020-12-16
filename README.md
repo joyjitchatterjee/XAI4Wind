@@ -11,7 +11,7 @@ Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Databas
 
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
-Knowledge Graph for Explainable Decision Support in Operations & Maintenance of Wind Turbines. 
+
 
 ## References
 1. Skillwind Manual (https://skillwind.com/wp-content/uploads/2017/08/SKILWIND_Maintenance_1.0.pdf) 
