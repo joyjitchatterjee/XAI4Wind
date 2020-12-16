@@ -3,7 +3,7 @@
 Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines" (in submission).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![](https://img.shields.io/static/v1?label=KnowledgeGraph&message=Cypher in Neo4jj&color=Red)
+![](https://img.shields.io/static/v1?label=KnowledgeGraph&message=Cypher&color=Red)
 ![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
 
 
