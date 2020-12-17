@@ -9,8 +9,9 @@ Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Databas
 # Guidance on usage
 The knowledge graph (KG) was exported to a JSON file using Neo4j's APOC (Awesome Procedures on Cypher) library. More details on APOC can be found here at https://neo4j.com/developer/neo4j-apoc/. This KG was developed and tested in Neo4j version 1.3.11.42 on MacOS Big Sur (version 11.0.1).
 The _EXPORT JSON_ procedure was utilised to export the KG to the JSON object. Thereby, it can be loaded using its import counterpart method _apoc.import.json_.
+We have also provided the Cypher script used for developing this KG in the repo as a text file _CypherScript_XAI4Wind.txt_.
 
-An example of importing the graph is given below:-
+An example of importing the graph through the JSON object using APOC is given below:-
 ```
 CALL apoc.import.json("CompleteKG_XAI4Wind.json")
 ```
