@@ -22,6 +22,13 @@ or (in Colab)
 ```
 !pip install py2neo
 ```
+You would need to look-up the Bolt server address (as visible in your specific Neo4j Desktop Application instance) and specify the same during integrated with Python. E.g. if your Bolt server address is _11005_, and you have also specified a password for access (_pass_),the follow lines of code can be used for the interfacing.
+```
+
+from py2neo import Graph
+graph = Graph("bolt://localhost:11005", auth=("neo4j", "pass")) #Can look up port address from inside Neo4j (11005 at present)
+```
+
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
 
