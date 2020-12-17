@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """KG-ResourcePaper_New.py
-Script for integrated of KG with XAI model
+Script for integration of KG with XAI model
 """
 
 !pip install py2neo
