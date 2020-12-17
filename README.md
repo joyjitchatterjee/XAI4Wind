@@ -16,7 +16,7 @@ An example of importing the graph through the JSON object using APOC is given be
 CALL apoc.import.json("CompleteKG_XAI4Wind.json")
 ```
 
-The KG in itself (standalone) can serve independently in the Neo4j Desktop Application for interactive information querying and retreival. This does not require any availablity of SCADA datasets. 
+The KG in itself (standalone) can serve independently in the Neo4j Desktop Application for interactive information querying and retrieval. This does not require any availablity of SCADA datasets. 
 
 For demonstration of XAI, SCADA features would be needed- but they can also be generalised to any resource with time-series parameters. As the KG will run in the local runtime, it is essential to connect it with a Python interface (e.g. Jupyter Notebook/Google Colaboratory) to integrate it with an Explainable AI model. This requires the _py2neo_ library which can be installed with 
 ```
