@@ -14,7 +14,14 @@ An example of importing the graph is given below:-
 ```
 CALL apoc.import.json("CompleteKG_XAI4Wind.json")
 ```
-
+As the KG will run in the local runtime, it is essential to connect it with a Python interface (e.g. Jupyter Notebook/Google Colaboratory) to integrate it with an Explainable AI model. This requires the _py2neo_ library which can be installed with 
+```
+pip install py2neo
+```
+or (in Colab)
+```
+!pip install py2neo
+```
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
 
