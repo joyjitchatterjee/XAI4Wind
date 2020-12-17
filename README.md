@@ -6,8 +6,14 @@ Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Databas
 ![](https://img.shields.io/static/v1?label=Neo4j&message=Cypher&color=Red)
 ![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
 
+# Guidance on usage
+The knowledge graph (KG) was exported to a JSON file using Neo4j's APOC (Awesome Procedures on Cypher) library. More details on APOC can be found here at https://neo4j.com/developer/neo4j-apoc/. This KG was developed and tested in Neo4j version 1.3.11.42 on MacOS Big Sur (version 11.0.1).
+The _EXPORT JSON_ procedure was utilised to export the KG to the JSON object. Thereby, it can be loaded using its import counterpart method _apoc.import.json_.
 
-
+An example of importing the graph is given below:-
+```
+CALL apoc.import.json("CompleteKG_XAI4Wind.json")
+```
 
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
