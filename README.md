@@ -1,5 +1,5 @@
 # XAI4Wind 
-<img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="220" height="200">
+<img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="220" height="230">
 Supplementary data for our paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines" (in submission).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
