@@ -31,7 +31,7 @@ graph = Graph("bolt://localhost:11005", auth=("neo4j", "pass")) #Can look up por
 ```
 
 # Acknowledgments
-We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data for the valuable resources used in this paper.
+We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data (POD) for the valuable resources used in this paper.
 A subset of 102 SCADA features (with their names publicly available on POD) was used in the KG. The maintenance actions segment is used to organise the information present in the Skillwind manual into a domain-specific ontology. More information can be found in references (1) for the maintenance action manual and (2) for multiple other potential SCADA features and alarms available in POD.
 
 ## References
