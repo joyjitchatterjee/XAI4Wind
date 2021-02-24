@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="220" height="230">
 Supplementary data for the paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines".
 
-# Link to paper preprint
-arXiv:
+## Link to paper preprint
+arXiv: https://arxiv.org/abs/2012.10489
 <br/>
 ResearchGate: https://www.researchgate.net/publication/347534382_XAI4Wind_A_Multimodal_Knowledge_Graph_Database_for_Explainable_Decision_Support_in_Operations_Maintenance_of_Wind_Turbines 
 
@@ -43,10 +43,17 @@ graph = Graph("bolt://localhost:11005", auth=("neo4j", "pass")) #Can look up por
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data (POD) for the valuable resources used in this paper.
 A subset of 102 SCADA features (with their names publicly available on POD) was used in the KG. The maintenance actions segment is used to organise the information present in the Skillwind manual into a domain-specific ontology. Due to confidentiality reasons, we have not provided the numeric values and complete SCADA corpus, but only released information which is presently in the public domain in this repository. More information can be found in references (1) for the maintenance action manual and (2) for multiple other potential SCADA features and alarms available in POD.
 
-# Cite As
+## Cite As
 Chatterjee, J. and Dethlefs, N., “XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines”, arXiv e-prints, 2020
 ```
-
+@misc{chatterjee2020xai4wind,
+      title={XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines}, 
+      author={Joyjit Chatterjee and Nina Dethlefs},
+      year={2020},
+      eprint={2012.10489},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 
 ```
 
