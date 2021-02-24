@@ -3,8 +3,9 @@
 Supplementary data for the paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines".
 
 # Link to paper preprint
-arXiv: https://www.researchgate.net/publication/347534382_XAI4Wind_A_Multimodal_Knowledge_Graph_Database_for_Explainable_Decision_Support_in_Operations_Maintenance_of_Wind_Turbines
-ResearchGate: 
+arXiv:
+<br/>
+ResearchGate: https://www.researchgate.net/publication/347534382_XAI4Wind_A_Multimodal_Knowledge_Graph_Database_for_Explainable_Decision_Support_in_Operations_Maintenance_of_Wind_Turbines 
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
