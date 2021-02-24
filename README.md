@@ -2,6 +2,11 @@
 <img src="https://user-images.githubusercontent.com/18656061/84653131-7b479f00-af2a-11ea-9c52-e8505f48d7b2.png" width="220" height="230">
 Supplementary data for the paper "XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines".
 
+# Link to paper preprint
+arXiv: https://www.researchgate.net/publication/347534382_XAI4Wind_A_Multimodal_Knowledge_Graph_Database_for_Explainable_Decision_Support_in_Operations_Maintenance_of_Wind_Turbines
+ResearchGate: 
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![](https://img.shields.io/static/v1?label=Neo4j&message=Cypher&color=Red)
 ![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
@@ -38,9 +43,11 @@ We acknowledge the publicly available Skillwind maintenance manual and ORE Catap
 A subset of 102 SCADA features (with their names publicly available on POD) was used in the KG. The maintenance actions segment is used to organise the information present in the Skillwind manual into a domain-specific ontology. Due to confidentiality reasons, we have not provided the numeric values and complete SCADA corpus, but only released information which is presently in the public domain in this repository. More information can be found in references (1) for the maintenance action manual and (2) for multiple other potential SCADA features and alarms available in POD.
 
 # Cite As
-'''
-print('hi')
-'''
+Chatterjee, J. and Dethlefs, N., “XAI4Wind: A Multimodal Knowledge Graph Database for Explainable Decision Support in Operations & Maintenance of Wind Turbines”, arXiv e-prints, 2020
+```
+
+
+```
 
 ## References
 1. Skillwind Manual (https://skillwind.com/wp-content/uploads/2017/08/SKILWIND_Maintenance_1.0.pdf) 
