@@ -38,6 +38,8 @@ You would need to look-up the Bolt server address (as visible in your specific N
 from py2neo import Graph
 graph = Graph("bolt://localhost:11005", auth=("neo4j", "pass")) #Can look up port address from inside Neo4j (11005 at present)
 ```
+# Use Cases
+For a real-world application of the KG beyond the use-cases described already in this repo, please see https://github.com/joyjitchatterjee/WindTurbine-QAKG for using the KG as a resource towards interactive decision support (question-answering) in the wind industry.
 
 # Acknowledgments
 We acknowledge the publicly available Skillwind maintenance manual and ORE Catapult's Platform for Operational Data (POD) for the valuable resources used in this paper.
